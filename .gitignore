@@ -1,0 +1,5 @@
+# Might delete later
+*.xcf
+
+# Node
+node_modules

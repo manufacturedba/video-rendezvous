@@ -1,0 +1,1 @@
+All text and/or assets herein do not reflect the opinions held by my employer

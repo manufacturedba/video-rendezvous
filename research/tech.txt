@@ -1,0 +1,15 @@
+Server - ROR
+
+Why? I have never used it. Ruby people had cool mustaches when I was in college.
+
+Web - Ember
+
+Not sure, I hate hamsters as pets.
+
+DB - MySQL
+
+Too old to do NoSQL
+
+Host - Heroku
+
+Probably? I'm on a timecrunch to learn something new

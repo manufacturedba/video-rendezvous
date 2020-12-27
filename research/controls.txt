@@ -1,0 +1,7 @@
+play/pause
+
+rewind/fast-forward
+
+skip
+
+back
